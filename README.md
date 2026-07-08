@@ -23,6 +23,6 @@ The implementation has been accepted into the official Gwyddion source code and 
 
 
 <p align="center">
-  <img src="screenshot.PNG" alt="Module Browser">
+  <img src="screenshot.png" alt="Module Browser">
 </p>
 
