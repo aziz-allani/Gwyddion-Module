@@ -1,7 +1,7 @@
 # Gwyddion C Module
 
 <p align="center">
-  <img src="Gwyddion-Module.PNG" alt="Module Browser" width="400">
+  <img src="Gwyddion-Module.PNG" alt="Module Browser" width="600">
 </p>
 A custom module developed in C for the Gwyddion scientific analysis platform and integrated into the official Gwyddion 2.71 release.
 
@@ -22,4 +22,7 @@ The module includes features such as:
 The implementation has been accepted into the official Gwyddion source code and is available starting from **Gwyddion 2.71**.
 
 
-![Module Browser](screenshot.png)
+<p align="center">
+  <img src="screenshot.PNG" alt="Module Browser">
+</p>
+
