@@ -1,5 +1,5 @@
 # Gwyddion C Module
-
+![Module Browser](Gwyddion-Module.png)
 A custom module developed in C for the Gwyddion scientific analysis platform and integrated into the official Gwyddion 2.71 release.
 
 ## Overview
